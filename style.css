@@ -26,7 +26,7 @@ body{
 }
 
 .card:hover{
-    height: 450px;
+    height: 400px;
 }
 
 .img8x{
@@ -44,8 +44,8 @@ body{
 }
 
 .card:hover .img8x{
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
 }
 
 .img8x img{
